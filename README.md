@@ -1,4 +1,4 @@
-#Web Scraping Document Database Homework
+Web Scraping Document Database Homework
 
 In this assignment, a web application was built that scrapes data from different websites to gather data related to the Mission to Mars and displays the information in a single HTML page.
 
